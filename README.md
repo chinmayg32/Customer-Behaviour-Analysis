@@ -21,6 +21,20 @@ The project provides insights into customer demographics, product performance, d
 - Analysed repeat buyers and subscription behaviour.
 - Calculated revenue contribution by age group.
 
+##  Key Insights
+
+- The dashboard analysed data from **122 customers**.
+- Customers spent an average of **$59.70** per purchase, indicating moderate purchasing behaviour.
+- The overall **Average Review Rating** was **3.72/5**, reflecting generally positive customer feedback.
+- **72.13%** of customers were **non-subscribers**, while only **27.87%** had an active subscription, highlighting an opportunity to improve subscription adoption.
+- The selected **Footwear** category generated approximately **$7.28K** in revenue, making it a significant contributor within the filtered view.
+- **Middle-aged customers** generated the highest revenue and recorded the highest number of purchases, making them the most valuable customer segment.
+- **Young Adults** and **Adults** also contributed significantly to overall sales, while **Senior** customers generated comparatively lower revenue.
+- Interactive filters allow users to analyse customer behaviour by **gender**, **subscription status**, **product category**, and **shipping method**, making the dashboard useful for customer segmentation and marketing analysis.
+
+---
+
+
 ##  Tools Used
 
 - Python (Pandas, NumPy, Matplotlib)
